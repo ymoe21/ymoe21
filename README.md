@@ -2,7 +2,6 @@
 - 👀 I’m interested in studying.
 - 🌱 I’m currently learning web.
 - 💞️ I’m looking for IT subjects that suit with me.
-- 
 -(>‿◠)✌Let me be your friend.I'm waiting to making friend with you.
 
 <!---
