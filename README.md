@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mochi.^_^
+- 👋 Hi, I’m maria.^_^
 - 👀 
 - 🌱 I’m currently learning Web development.
 - 💞️
