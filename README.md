@@ -1,8 +1,8 @@
 - 👋 Hi, I’m mochi.^_^
-- 👀 I’m interested in studying.
+- 👀 
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking for IT subjects that suit with me.
--(>‿◠)✌Let me be your friend.I'm waiting to making friend with you.
+- 💞️
+-(>‿◠)✌Let me be your friend.
 
 <!---
 ymoe21/ymoe21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
